@@ -5,7 +5,10 @@ Easy_image_compress is a lightweight Python utility using Pillow that compresses
 Original files are safely moved to the Recycle Bin using the `send2trash` module.
 
 ---
-https://github.com/TheMarketBuilderGit/Easy_image_compress/blob/main/Before_After.png
+
+![Image Description](images/Before_After.png)
+
+
 
 ## Simple Way to Use It (Standalone EXE)
 
