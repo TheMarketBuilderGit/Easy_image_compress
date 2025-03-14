@@ -13,7 +13,7 @@ Original files are safely moved to the Recycle Bin using the `send2trash` module
 ## Simple Way to Use It (Standalone EXE)
 
 ### 1. Download the EXE
-Download the standalone executable from the [Releases](#) page of this repository.
+Download the standalone executable from this repository.
 
 ### 2. Place It in Your Folder
 Copy the downloaded EXE into the folder that contains the images you wish to compress.
