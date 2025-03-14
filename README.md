@@ -1,10 +1,11 @@
 # Easy_image_compress
 
-Easy_image_compress is a lightweight Python utility that compresses image files by reducing their dimensions (to 75% of the original) and converting them to JPEG format with little quality loss (90% quality). 
+Easy_image_compress is a lightweight Python utility using Pillow that compresses image files by reducing their dimensions (to 75% of the original) and converting them to JPEG format with little quality loss (90% quality). 
 
 Original files are safely moved to the Recycle Bin using the `send2trash` module.
 
 ---
+https://github.com/TheMarketBuilderGit/Easy_image_compress/blob/main/Before_After.png
 
 ## Simple Way to Use It (Standalone EXE)
 
