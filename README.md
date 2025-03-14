@@ -70,7 +70,7 @@ pip install -r requirements.txt
 
 ### Run as a Python Script
 1. Place the `easy_image_compress.py` file in the folder with the images you want to compress.
-2. Run the script from the command line:
+2. Run the script from the command line started in your directory :
 ```bash
 python easy_image_compress.py
 ```
