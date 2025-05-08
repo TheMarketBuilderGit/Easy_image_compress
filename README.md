@@ -85,9 +85,6 @@ python easy_image_compress.py
 ```
 Or by double-clicking the script (if configured to run with Python).
 
-### Run as a Standalone Executable
-Follow the instructions in the **"Simple Way to Use It (Standalone EXE)"** section above.
-
 
 ### This project includes the following third-party libraries: ###
 
