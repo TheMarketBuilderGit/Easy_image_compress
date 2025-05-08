@@ -24,8 +24,8 @@ Yes, it decreasese the image size and quality. But most of the time, if these pi
 ### 1. Download the EXE
 Download the standalone executable from this repository.
 
-### 2. Place It in Your Folder
-Copy the downloaded EXE into the folder that contains the images you wish to compress.
+### 2. Place It in Your Folder containing the image to compress
+Copy the downloaded EXE into the folder that contains the images you wish to compress. Note that it will compress all the images in this folder to the new lighter format and size and delete the original. Good practice : Create a folder where you place all the image you wish to compress then place the exe in it and run it. 
 
 ### 3. Run the EXE : DONE !
 Double-click the EXE. The program will immediately display a message in the command prompt:
